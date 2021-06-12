@@ -9,5 +9,4 @@ Used Kaggle as the tool to obtain the dataset. To do data analysis, I decided to
 The libraries being used for this project includes Pandas, Matplotlib, Numpy, and Seaborn. Pandas will be used to import the dataset (CSV file) to a dataframe. Pandas, Matplotlib and Seaborn are also used to produce visualizations. Numpy is used for data analysis with the data from the dataframe.
 
 ## Storyboard
-The file named "DH 100 Data Storyboard v3.0 - Page 1.pdf" is the storyboard of my project. It outlines the process of what I am trying to create.
-<a href="DH 100 Data Storyboard v3.0 - Page 1.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+[add pdf]
