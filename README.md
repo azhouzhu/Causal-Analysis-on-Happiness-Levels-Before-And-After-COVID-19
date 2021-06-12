@@ -8,6 +8,3 @@ This projeect concentrates on analyzing the data obtained from the Gallup World 
 Used Kaggle as the tool to obtain the dataset. To do data analysis, I decided to use Jupyter Notebook as my means to work with the data and producing visualizations. 
 
 The libraries being used for this project includes Pandas, Matplotlib, Numpy, and Seaborn. Pandas will be used to import the dataset (CSV file) to a dataframe. Pandas, Matplotlib and Seaborn are also used to produce visualizations. Numpy is used for data analysis with the data from the dataframe.
-
-## Storyboard
-![Screenshot] (DH 100 Data Storyboard v3.0 - Page 1.pdf)
